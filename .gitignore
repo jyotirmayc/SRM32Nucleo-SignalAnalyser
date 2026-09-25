@@ -1,0 +1,21 @@
+# Build output directories
+Debug/
+Release/
+
+# Standard C compiler and linker artifacts
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.list
+*.hex
+*.bin
+
+# STM32CubeIDE specific cache (optional to ignore)
+.mxproject
+
+# OS generated files
+.DS_Store
+Thumbs.db
